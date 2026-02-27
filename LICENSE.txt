@@ -1,0 +1,31 @@
+Copyright (c) 2025-present 薛佑熙 (Youxi Xue, Samuel, GitHub: xueyouxi1) & Bear
+
+1. 本软件允许任何人免费使用。
+   Permission is granted to freely use this software.
+
+2. 严禁修改源代码。
+   Modification of the source code is strictly prohibited.
+
+3. 禁止商用、售卖或任何盈利行为。
+   Commercial use, sale and profit-making activities are not allowed.
+
+4. 基于本项目的衍生作品必须开源。
+   All derivative works based on this project must be open-sourced.
+
+5. 使用本项目必须署名作者：薛佑熙 (Samuel, GitHub: xueyouxi1) 与 Bear。
+   Attribution to authors Youxi Xue (Samuel, GitHub: xueyouxi1) and Bear is required.
+
+6. 严禁删除或隐藏版权与作者信息。
+   Removal of copyright and authorship information is forbidden.
+
+7. 禁止将本软件再授权、转让或转租给他人。
+   You may not sublicense, transfer or rent this software.
+
+8. 本软件不得用于违法、恶意或损害他人利益的用途。
+   This software may not be used for illegal, harmful or unethical purposes.
+
+9. 作者不对使用本软件产生的任何后果承担责任。
+   The authors are not liable for any damages or issues caused by usage.
+
+10. 作者保留对本协议的最终解释权。
+    The authors reserve the right of final interpretation of this license.
